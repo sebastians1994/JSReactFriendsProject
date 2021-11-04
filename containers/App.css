@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Disney Heroic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Disney Heroic'),url('DisneyHeroic.ttf') format('ttf');
+}
+
+h1 {
+    font-family: 'Disney Heroic';
+}
