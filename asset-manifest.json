@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/JSReactFriendsProject/static/css/main.41c9e842.chunk.css",
+    "main.js": "/JSReactFriendsProject/static/js/main.efb9d3c4.chunk.js",
+    "main.js.map": "/JSReactFriendsProject/static/js/main.efb9d3c4.chunk.js.map",
+    "runtime-main.js": "/JSReactFriendsProject/static/js/runtime-main.51068271.js",
+    "runtime-main.js.map": "/JSReactFriendsProject/static/js/runtime-main.51068271.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/JSReactFriendsProject/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.d98677b1.chunk.js": "/JSReactFriendsProject/static/js/2.d98677b1.chunk.js",
+    "static/js/2.d98677b1.chunk.js.map": "/JSReactFriendsProject/static/js/2.d98677b1.chunk.js.map",
+    "static/js/3.825ad0f3.chunk.js": "/JSReactFriendsProject/static/js/3.825ad0f3.chunk.js",
+    "static/js/3.825ad0f3.chunk.js.map": "/JSReactFriendsProject/static/js/3.825ad0f3.chunk.js.map",
+    "index.html": "/JSReactFriendsProject/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/JSReactFriendsProject/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.41c9e842.chunk.css.map": "/JSReactFriendsProject/static/css/main.41c9e842.chunk.css.map",
+    "static/js/2.d98677b1.chunk.js.LICENSE.txt": "/JSReactFriendsProject/static/js/2.d98677b1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/JSReactFriendsProject/static/media/DisneyHeroic.1f2e53ad.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51068271.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.d98677b1.chunk.js",
+    "static/css/main.41c9e842.chunk.css",
+    "static/js/main.efb9d3c4.chunk.js"
+  ]
+}
